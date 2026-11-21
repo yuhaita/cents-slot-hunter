@@ -1,0 +1,90 @@
+{
+  "CENT@UNI|Universita' degli studi di Trieste|TRIESTE|20/11/2026|26/11/2026": {
+    "university": "Universita' degli studi di Trieste",
+    "city": "TRIESTE",
+    "date": "26/11/2026",
+    "seats": 71,
+    "status": "ISCRIZIONI CONCLUSE",
+    "available": true
+  },
+  "CENT@UNI|Universita' degli studi di Messina|MESSINA|20/11/2026|26/11/2026": {
+    "university": "Universita' degli studi di Messina",
+    "city": "MESSINA",
+    "date": "26/11/2026",
+    "seats": 60,
+    "status": "ISCRIZIONI CONCLUSE",
+    "available": true
+  },
+  "CENT@CASA|Sapienza Universit\u00e0 di Roma|ROMA|20/11/2026|26/11/2026": {
+    "university": "Sapienza Universit\u00e0 di Roma",
+    "city": "ROMA",
+    "date": "26/11/2026",
+    "seats": 0,
+    "status": "ISCRIZIONI CONCLUSE",
+    "available": false
+  },
+  "CENT@CASA|Politecnico di Milano|MILANO|20/11/2026|26/11/2026": {
+    "university": "Politecnico di Milano",
+    "city": "MILANO",
+    "date": "26/11/2026",
+    "seats": 0,
+    "status": "ISCRIZIONI CONCLUSE",
+    "available": false
+  },
+  "CENT@CASA|Universit\u00e0 degli studi di Padova|PADOVA|20/11/2026|26/11/2026": {
+    "university": "Universit\u00e0 degli studi di Padova",
+    "city": "PADOVA",
+    "date": "26/11/2026",
+    "seats": 0,
+    "status": "ISCRIZIONI CONCLUSE",
+    "available": false
+  },
+  "CENT@CASA|Universit\u00e0 degli studi di Teramo|TERAMO|20/11/2026|26/11/2026": {
+    "university": "Universit\u00e0 degli studi di Teramo",
+    "city": "TERAMO",
+    "date": "26/11/2026",
+    "seats": 0,
+    "status": "ISCRIZIONI CONCLUSE",
+    "available": false
+  },
+  "CENT@CASA|Universit\u00e0 Ca' Foscari Venezia|VENEZIA|20/11/2026|26/11/2026": {
+    "university": "Universit\u00e0 Ca' Foscari Venezia",
+    "city": "VENEZIA",
+    "date": "26/11/2026",
+    "seats": 0,
+    "status": "ISCRIZIONI CONCLUSE",
+    "available": false
+  },
+  "CENT@UNI|Universita' degli studi di Messina|MESSINA|11/12/2026|17/12/2026": {
+    "university": "Universita' degli studi di Messina",
+    "city": "MESSINA",
+    "date": "17/12/2026",
+    "seats": 31,
+    "status": "POSTI DISPONIBILI",
+    "available": true
+  },
+  "CENT@CASA|Sapienza Universit\u00e0 di Roma|ROMA|11/12/2026|17/12/2026": {
+    "university": "Sapienza Universit\u00e0 di Roma",
+    "city": "ROMA",
+    "date": "17/12/2026",
+    "seats": 0,
+    "status": "POSTI ESAURITI",
+    "available": false
+  },
+  "CENT@CASA|Politecnico di Milano|MILANO|11/12/2026|17/12/2026": {
+    "university": "Politecnico di Milano",
+    "city": "MILANO",
+    "date": "17/12/2026",
+    "seats": 0,
+    "status": "POSTI ESAURITI",
+    "available": false
+  },
+  "CENT@UNI|Politecnico di Torino|TORINO|06/01/2027|12/01/2027": {
+    "university": "Politecnico di Torino",
+    "city": "TORINO",
+    "date": "12/01/2027",
+    "seats": 0,
+    "status": "POSTI ESAURITI",
+    "available": false
+  }
+}
