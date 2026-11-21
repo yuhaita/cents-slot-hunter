@@ -34,7 +34,10 @@ def send_telegram(message):
         timeout=20
     )
 
-    response.raise_for_status()
+    if not response.ok:
+    raise RuntimeError(
+        f"Telegram HTTP {response.status_code}: {response.text}"
+    )
 
     result = response.json()
 
