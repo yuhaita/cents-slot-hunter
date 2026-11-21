@@ -23,25 +23,37 @@ TEST_TELEGRAM = os.getenv("TEST_TELEGRAM", "false").lower() == "true"
 # =====================================
 
 def send_telegram(message):
+
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
 
     response = requests.post(
+
         url,
+
         data={
+
             "chat_id": CHAT_ID,
+
             "text": message
+
         },
+
         timeout=20
+
     )
 
     if not response.ok:
-    raise RuntimeError(
-        f"Telegram HTTP {response.status_code}: {response.text}"
-    )
+
+        raise RuntimeError(
+
+            f"Telegram HTTP {response.status_code}: {response.text}"
+
+        )
 
     result = response.json()
 
     if not result.get("ok"):
+
         raise RuntimeError(f"Telegram error: {result}")
 
 
