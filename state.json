@@ -15,8 +15,8 @@
     "status": "ISCRIZIONI CONCLUSE",
     "available": true
   },
-  "CENT@CASA|Sapienza Universit\u00e0 di Roma|ROMA|20/11/2026|26/11/2026": {
-    "university": "Sapienza Universit\u00e0 di Roma",
+  "CENT@CASA|Sapienza Università di Roma|ROMA|20/11/2026|26/11/2026": {
+    "university": "Sapienza Università di Roma",
     "city": "ROMA",
     "date": "26/11/2026",
     "seats": 0,
@@ -31,24 +31,24 @@
     "status": "ISCRIZIONI CONCLUSE",
     "available": false
   },
-  "CENT@CASA|Universit\u00e0 degli studi di Padova|PADOVA|20/11/2026|26/11/2026": {
-    "university": "Universit\u00e0 degli studi di Padova",
+  "CENT@CASA|Università degli studi di Padova|PADOVA|20/11/2026|26/11/2026": {
+    "university": "Università degli studi di Padova",
     "city": "PADOVA",
     "date": "26/11/2026",
     "seats": 0,
     "status": "ISCRIZIONI CONCLUSE",
     "available": false
   },
-  "CENT@CASA|Universit\u00e0 degli studi di Teramo|TERAMO|20/11/2026|26/11/2026": {
-    "university": "Universit\u00e0 degli studi di Teramo",
+  "CENT@CASA|Università degli studi di Teramo|TERAMO|20/11/2026|26/11/2026": {
+    "university": "Università degli studi di Teramo",
     "city": "TERAMO",
     "date": "26/11/2026",
     "seats": 0,
     "status": "ISCRIZIONI CONCLUSE",
     "available": false
   },
-  "CENT@CASA|Universit\u00e0 Ca' Foscari Venezia|VENEZIA|20/11/2026|26/11/2026": {
-    "university": "Universit\u00e0 Ca' Foscari Venezia",
+  "CENT@CASA|Università Ca' Foscari Venezia|VENEZIA|20/11/2026|26/11/2026": {
+    "university": "Università Ca' Foscari Venezia",
     "city": "VENEZIA",
     "date": "26/11/2026",
     "seats": 0,
@@ -59,12 +59,12 @@
     "university": "Universita' degli studi di Messina",
     "city": "MESSINA",
     "date": "17/12/2026",
-    "seats": 28,
+    "seats": 29,
     "status": "POSTI DISPONIBILI",
     "available": true
   },
-  "CENT@CASA|Sapienza Universit\u00e0 di Roma|ROMA|11/12/2026|17/12/2026": {
-    "university": "Sapienza Universit\u00e0 di Roma",
+  "CENT@CASA|Sapienza Università di Roma|ROMA|11/12/2026|17/12/2026": {
+    "university": "Sapienza Università di Roma",
     "city": "ROMA",
     "date": "17/12/2026",
     "seats": 0,
