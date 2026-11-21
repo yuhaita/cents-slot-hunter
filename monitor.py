@@ -11,8 +11,8 @@ from bs4 import BeautifulSoup
 
 URL = "https://testcisia.it/calendario.php?tolc=cents&lingua=inglese"
 
-TOKEN = os.environ["BOT_TOKEN"]
-CHAT_ID = os.environ["CHAT_ID"]
+TOKEN = os.environ["BOT_TOKEN"].strip()
+CHAT_ID = os.environ["CHAT_ID"].strip()
 
 STATE_FILE = "state.json"
 TEST_TELEGRAM = os.getenv("TEST_TELEGRAM", "false").lower() == "true"
