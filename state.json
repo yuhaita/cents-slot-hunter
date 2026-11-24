@@ -83,8 +83,8 @@
     "university": "Politecnico di Torino",
     "city": "TORINO",
     "date": "12/01/2027",
-    "seats": 7,
-    "status": "POSTI DISPONIBILI",
-    "available": true
+    "seats": 0,
+    "status": "POSTI ESAURITI",
+    "available": false
   }
 }
