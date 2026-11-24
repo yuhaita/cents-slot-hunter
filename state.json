@@ -59,7 +59,7 @@
     "university": "Universita' degli studi di Messina",
     "city": "MESSINA",
     "date": "17/12/2026",
-    "seats": 20,
+    "seats": 23,
     "status": "POSTI DISPONIBILI",
     "available": true
   },
@@ -83,7 +83,7 @@
     "university": "Politecnico di Torino",
     "city": "TORINO",
     "date": "12/01/2027",
-    "seats": 97,
+    "seats": 86,
     "status": "POSTI DISPONIBILI",
     "available": true
   }
