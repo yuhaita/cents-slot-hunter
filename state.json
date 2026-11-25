@@ -55,11 +55,19 @@
     "status": "ISCRIZIONI CONCLUSE",
     "available": false
   },
+  "CENT@UNI|Sapienza Universita' di Roma - Facolta' di Ingegneria (I3S) - Dipartimento di Scienze statistiche|ROMA|11/12/2026|17/12/2026": {
+    "university": "Sapienza Universita' di Roma - Facolta' di Ingegneria (I3S) - Dipartimento di Scienze statistiche",
+    "city": "ROMA",
+    "date": "17/12/2026",
+    "seats": 8,
+    "status": "POSTI DISPONIBILI",
+    "available": true
+  },
   "CENT@UNI|Universita' degli studi di Messina|MESSINA|11/12/2026|17/12/2026": {
     "university": "Universita' degli studi di Messina",
     "city": "MESSINA",
     "date": "17/12/2026",
-    "seats": 15,
+    "seats": 14,
     "status": "POSTI DISPONIBILI",
     "available": true
   },
