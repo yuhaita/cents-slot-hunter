@@ -27,9 +27,9 @@
     "university": "Politecnico di Milano",
     "city": "MILANO",
     "date": "26/11/2026",
-    "seats": 0,
+    "seats": 11,
     "status": "ISCRIZIONI CONCLUSE",
-    "available": false
+    "available": true
   },
   "CENT@CASA|Università degli studi di Padova|PADOVA|20/11/2026|26/11/2026": {
     "university": "Università degli studi di Padova",
@@ -67,7 +67,7 @@
     "university": "Universita' degli studi di Messina",
     "city": "MESSINA",
     "date": "17/12/2026",
-    "seats": 14,
+    "seats": 13,
     "status": "POSTI DISPONIBILI",
     "available": true
   },
