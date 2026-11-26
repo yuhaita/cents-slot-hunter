@@ -19,7 +19,7 @@
     "university": "Sapienza Università di Roma",
     "city": "ROMA",
     "date": "26/11/2026",
-    "seats": 5,
+    "seats": 7,
     "status": "ISCRIZIONI CONCLUSE",
     "available": true
   },
@@ -86,6 +86,14 @@
     "seats": 0,
     "status": "POSTI ESAURITI",
     "available": false
+  },
+  "CENT@CASA|Sapienza Università di Roma|ROMA|06/01/2027|12/01/2027": {
+    "university": "Sapienza Università di Roma",
+    "city": "ROMA",
+    "date": "12/01/2027",
+    "seats": 16,
+    "status": "POSTI DISPONIBILI",
+    "available": true
   },
   "CENT@UNI|Politecnico di Torino|TORINO|06/01/2027|12/01/2027": {
     "university": "Politecnico di Torino",
