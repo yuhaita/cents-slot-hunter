@@ -19,9 +19,9 @@
     "university": "Sapienza Università di Roma",
     "city": "ROMA",
     "date": "26/11/2026",
-    "seats": 0,
+    "seats": 5,
     "status": "ISCRIZIONI CONCLUSE",
-    "available": false
+    "available": true
   },
   "CENT@CASA|Politecnico di Milano|MILANO|20/11/2026|26/11/2026": {
     "university": "Politecnico di Milano",
