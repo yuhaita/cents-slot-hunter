@@ -67,7 +67,7 @@
     "university": "Universita' degli studi di Messina",
     "city": "MESSINA",
     "date": "17/12/2026",
-    "seats": 15,
+    "seats": 16,
     "status": "POSTI DISPONIBILI",
     "available": true
   },
@@ -83,9 +83,9 @@
     "university": "Politecnico di Milano",
     "city": "MILANO",
     "date": "17/12/2026",
-    "seats": 40,
-    "status": "POSTI DISPONIBILI",
-    "available": true
+    "seats": 0,
+    "status": "POSTI ESAURITI",
+    "available": false
   },
   "CENT@UNI|Politecnico di Torino|TORINO|06/01/2027|12/01/2027": {
     "university": "Politecnico di Torino",
