@@ -19,7 +19,7 @@
     "university": "Sapienza Università di Roma",
     "city": "ROMA",
     "date": "26/11/2026",
-    "seats": 7,
+    "seats": 9,
     "status": "ISCRIZIONI CONCLUSE",
     "available": true
   },
@@ -67,7 +67,7 @@
     "university": "Universita' degli studi di Messina",
     "city": "MESSINA",
     "date": "17/12/2026",
-    "seats": 11,
+    "seats": 12,
     "status": "POSTI DISPONIBILI",
     "available": true
   },
